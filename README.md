@@ -21,15 +21,6 @@ Além disso, destaco minha experiência profissional em ambientes industriais e 
 - Experiência profissional detalhada  
 - Contato com links para LinkedIn e GitHub  
 
-## 🌐 Acesse o projeto
-
-🔗 [Clique aqui para ver o projeto](#)
-
-*(Você pode colocar aqui o link quando publicar no Vercel ou Netlify)*
-
-## 📸 Preview
-
-*(Opcional: adicione um print do site aqui)*
 
 ## 📬 Contato
 
